@@ -57,10 +57,10 @@ It demonstrates an end-to-end workflow using **SQL for data processing, Python f
 
 ##  Key Insights:
 
-** Fare and distance have linear relatioship.**
-** Pickup locations are evenly scattered.**
-** Cab demands are at peak during the night and morning.**
-** Demands are almost uniform across all days of the week.**
+ Fare and distance have linear relationship.
+ Pickup locations are evenly scattered.
+ Cab demands are at peak during the night and morning.
+ Demands are almost uniform across all days of the week.
 
 
 ## 📁 Project Structure:
